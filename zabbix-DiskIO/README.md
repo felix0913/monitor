@@ -156,7 +156,8 @@
   
   ![](http://upload-images.jianshu.io/upload_images/3246264-ed8e5f19730d6219.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
   
-将模板应用到相关主机后等待片刻即可查看到监控的图信息：
+- 将模板应用到相关主机后等待片刻即可查看到监控的图信息：
+
   ![](http://upload-images.jianshu.io/upload_images/3246264-0d020895560c9601.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
 
 
